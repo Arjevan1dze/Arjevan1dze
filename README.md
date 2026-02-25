@@ -34,3 +34,9 @@ I have worked as a **Penetration Tester** for one year at [Kurochi](https://www.
 ---
 
 Thank you for visiting my profile! I am dedicated to growing as a professional penetration tester and continuously improving my skills in cybersecurity.
+
+Skills:
+
+Web Application Penetration Testing: I have a thorough knowledge of owasp top 10 vulnerabilities including: XSS, (Blind, Reflected, Stored), SQL Injection, (Blind SQLI, Time-Based SQLI), NoSQL Injection, OS Command Injection, Code Injection, LDAP Injection, XPath Injection, XML Injection, Server-Side Template Injection (SSTI), CRLF Injection, HTTP Parameter Pollution (HPP), GraphQL Injection, Cross-Site Request Forgery (CSRF), Clickjacking,Cross-Origin Resource Sharing (CORS) Misconfiguration and also Authentication & Authorization Issues
+
+Coding: I have experience in the following languages: HTML, JavaScript, Python, and I also know the weaknesses of the following frameworks: jQuery, angularJS
